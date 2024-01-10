@@ -74,7 +74,7 @@ Ensure you have the following installed before running the project:
 
 1. Open the project in PyCharm (or your preferred IDE).
 2. Configure the `config.json` file with your Trello credentials. (USERNAME & PASSWORD)
-3. 3. Run the `trello_bot.py` script.
+3. Run the `trello_bot.py` script.
 
 The script will automate the login, task addition, and screenshot capture on Trello.
 
